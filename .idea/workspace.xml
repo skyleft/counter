@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d7abf4f-2df0-41b3-add0-5e7ae37064ed" name="Default" comment="" />
+    <ignored path="menco_counter.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="menco_counter" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="counter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="35" selection-start="363" selection-end="363" vertical-scroll-proportion="3.125" vertical-offset="240" max-vertical-offset="2055">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flipclock.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="412" column="112" selection-start="9120" selection-end="9216" vertical-scroll-proportion="0.0" vertical-offset="6180" max-vertical-offset="41445">
+              <folding>
+                <marker date="1429758458000" expanded="true" signature="9134:9204" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flipclock.min.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="3652" selection-start="3680" selection-end="3680" vertical-scroll-proportion="0.04587156" vertical-offset="0" max-vertical-offset="327">
+              <folding>
+                <marker date="1429785789000" expanded="false" signature="3167:3237" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="3266:3337" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="3363:3435" placeholder="..." />
+                <marker date="1429785789000" expanded="false" signature="3461:3533" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="3752:3823" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="3885:3956" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="4017:4089" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="4176:4248" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="4335:4407" placeholder="..." />
+                <marker date="1429785789000" expanded="true" signature="4468:4540" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CounterFace.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/CounterFace.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="30" selection-start="69" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1110">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flipclock.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="196" column="23" selection-start="4115" selection-end="4134" vertical-scroll-proportion="0.0" vertical-offset="2741" max-vertical-offset="6585">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IniFile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IniFile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="47" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="495">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="141" column="7" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2265">
+              <folding>
+                <marker date="1429694606000" expanded="true" signature="2060:4818" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="2060:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="2067:3146" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3153:4818" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3153:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3178:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3221:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3244:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3315:3407" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3873:4051" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="3944:4051" placeholder="..." />
+                <marker date="1429694606000" expanded="true" signature="4150:4726" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/function.php" />
+        <option value="$PROJECT_DIR$/IniFile.php" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/js/CounterFace.js" />
+        <option value="$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.js" />
+        <option value="$PROJECT_DIR$/counter.php" />
+        <option value="$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css" />
+        <option value="$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.min.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php5.5.16" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menco_counter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="SearchEverywhereHistory" value="//&#10;fli&#10;flipc&#10;face" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d7abf4f-2df0-41b3-add0-5e7ae37064ed" name="Default" comment="" />
+      <created>1429678458360</created>
+      <updated>1429678458360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="738" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="35" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="412" column="112" selection-start="9120" selection-end="9216" vertical-scroll-proportion="0.0" vertical-offset="6180" max-vertical-offset="41445">
+          <folding>
+            <marker date="1429758458000" expanded="true" signature="9134:9204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4196" selection-start="4224" selection-end="4224" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding>
+            <marker date="1429785789000" expanded="false" signature="3167:3237" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3266:3337" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3363:3435" placeholder="..." />
+            <marker date="1429785789000" expanded="false" signature="3461:3533" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3752:3823" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3885:3956" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4017:4089" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4176:4248" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4335:4407" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4468:4540" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CounterFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="69" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="23" selection-start="4115" selection-end="4134" vertical-scroll-proportion="0.0" vertical-offset="2741" max-vertical-offset="6585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IniFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="7" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2265">
+          <folding>
+            <marker date="1429694606000" expanded="true" signature="2060:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2060:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2067:3146" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3178:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3221:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3244:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3315:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3873:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3944:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="4150:4726" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="35" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="2130">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="412" column="112" selection-start="9120" selection-end="9216" vertical-scroll-proportion="0.0" vertical-offset="6180" max-vertical-offset="41445">
+          <folding>
+            <marker date="1429758458000" expanded="true" signature="9134:9204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4196" selection-start="4224" selection-end="4224" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="105">
+          <folding>
+            <marker date="1429785789000" expanded="false" signature="3167:3237" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3266:3337" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3363:3435" placeholder="..." />
+            <marker date="1429785789000" expanded="false" signature="3461:3533" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3752:3823" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3885:3956" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4017:4089" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4176:4248" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4335:4407" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4468:4540" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CounterFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="69" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="14" selection-start="4074" selection-end="4074" vertical-scroll-proportion="0.0" vertical-offset="2516" max-vertical-offset="6585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IniFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="7" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2265">
+          <folding>
+            <marker date="1429694606000" expanded="true" signature="2060:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2060:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2067:3146" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3178:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3221:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3244:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3315:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3873:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3944:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="4150:4726" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="32" selection-start="1520" selection-end="1520" vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="1815">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CounterFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="36" selection-start="958" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="15" selection-start="4328" selection-end="4328" vertical-scroll-proportion="0.0" vertical-offset="2869" max-vertical-offset="6585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IniFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="26" selection-start="2095" selection-end="2095" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="2265">
+          <folding>
+            <marker date="1429694606000" expanded="true" signature="2060:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2060:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2067:3146" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3178:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3221:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3244:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3315:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3873:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3944:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="4150:4726" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="12" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IniFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="47" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/CounterFace.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="69" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="7" selection-start="4826" selection-end="4826" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2265">
+          <folding>
+            <marker date="1429694606000" expanded="true" signature="2060:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2060:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="2067:3146" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:4818" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3153:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3178:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3221:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3244:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3315:3407" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3873:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="3944:4051" placeholder="..." />
+            <marker date="1429694606000" expanded="true" signature="4150:4726" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="412" column="112" selection-start="9120" selection-end="9216" vertical-scroll-proportion="0.0" vertical-offset="6180" max-vertical-offset="41445">
+          <folding>
+            <marker date="1429758458000" expanded="true" signature="9134:9204" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="23" selection-start="4115" selection-end="4134" vertical-scroll-proportion="0.0" vertical-offset="2741" max-vertical-offset="6585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="35" selection-start="363" selection-end="363" vertical-scroll-proportion="3.125" vertical-offset="240" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/flipclock/compiled/flipclock.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="3652" selection-start="3680" selection-end="3680" vertical-scroll-proportion="0.04587156" vertical-offset="0" max-vertical-offset="327">
+          <folding>
+            <marker date="1429785789000" expanded="false" signature="3167:3237" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3266:3337" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3363:3435" placeholder="..." />
+            <marker date="1429785789000" expanded="false" signature="3461:3533" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3752:3823" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="3885:3956" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4017:4089" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4176:4248" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4335:4407" placeholder="..." />
+            <marker date="1429785789000" expanded="true" signature="4468:4540" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
